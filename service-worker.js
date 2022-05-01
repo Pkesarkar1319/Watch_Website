@@ -9,7 +9,7 @@ const cacheName='rolex'
 const cacheAssets = [
     '/',
     './index.html',
-    './assets/img/favicon.png',
+    'assets/img/favicon.png',
     'https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css',
     './assets/css/swiper-bundle.min.css',
     

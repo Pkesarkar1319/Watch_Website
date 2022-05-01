@@ -5,7 +5,7 @@ if('serviceWorker' in navigator){
 
 }
 //installing
-const cacheName='rolex-v2'
+const cacheName='rolex'
 const cacheAssets = [
     '/',
     './index.html',
